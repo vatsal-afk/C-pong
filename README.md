@@ -87,8 +87,6 @@ meson compile -C build --clean
 - Paddle 1: Use the Up and Down arrow keys
 - Paddle 2: Use the W and S keys
 
-Enjoy your game!
-
 ### Summary
 
 This setup provides a dual-build system with instructions for both `Makefile` and `Meson`.
